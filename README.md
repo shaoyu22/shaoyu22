@@ -1,6 +1,6 @@
-# Hi, I'm Shao Yu (Charlotte) 👋
+## Hi, I'm Shao Yu Cheng <small>(Charlotte)</small> 👋
 
-A results-oriented **Project Manager** and current **MSTM candidate at UIUC**, bridging the gap between project leadership and data analytics.
+A results-oriented **Project Manager** and current **MSTM student at UIUC** (Expected Graduation: Aug 2026), bridging the gap between project leadership and data analytics.
 
 ### 💼 Professional Experience
 With **5 years of experience in Project Management**, I have developed a strong foundation in driving project success through:
