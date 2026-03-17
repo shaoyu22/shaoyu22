@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shao Yu (Charlotte) 👋
 
-<!--
-**shaoyu22/shaoyu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A results-oriented **Project Manager** and current **MSTM candidate at UIUC**, bridging the gap between project leadership and data analytics.
 
-Here are some ideas to get you started:
+### 💼 Professional Experience
+With **5 years of experience in Project Management**, I have developed a strong foundation in driving project success through:
+* **Strategic Execution:** Managing complex timelines and ensuring high-quality deliverables.
+* **Resource Management:** Expertise in budget oversight and schedule control.
+* **Communication Leadership:** Proven ability in cross-functional collaboration and social media strategy to expand customer reach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Why Data?
+I believe that the strongest leadership is rooted in **Data-Driven Decision Making**. Currently, I am pursuing my Master’s at **UIUC** to empower my project management background with advanced analytical tools and technical insights.
+
+### 🛠️ Tech Stack
+- **Management:** ProjectLibre, MS Project, Agile/Scrum
+- **Analytics:** Python (Pandas, Numpy), SQL, Radient
+- **Interests:** F1 Data Analysis 🏎️ | Freediving (A2) 🤿
+- **Language:** Chinese(Native), English(Fluent)
