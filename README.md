@@ -16,3 +16,10 @@ I believe that the strongest leadership is rooted in **Data-Driven Decision Maki
 - **Analytics:** Python (Pandas, Numpy), SQL, Radient
 - **Interests:** F1 Data Analysis 🏎️ | Freediving (A2) 🤿
 - **Language:** Chinese(Native), English(Fluent)
+
+### 🎓 Additional Certifications
+#### Developing a Winning Marketing Strategy
+<img src="cert-marketing.png" width="300"> 
+
+#### What Is Generative AI?
+<img src="cert-gen-ai.png" width="300">
