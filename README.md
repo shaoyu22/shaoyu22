@@ -18,8 +18,10 @@ I believe that the strongest leadership is rooted in **Data-Driven Decision Maki
 - **Language:** Chinese(Native), English(Fluent)
 
 ### 🎓 Additional Certifications
-#### Developing a Winning Marketing Strategy
+**Developing a Winning Marketing Strategy** (Coursera Learning)
+
 <img src="cert-marketing.png" width="300"> 
 
-#### What Is Generative AI?
+**What Is Generative AI?** (LinkedIn Learning)
+
 <img src="cert-gen-ai.png" width="300">
